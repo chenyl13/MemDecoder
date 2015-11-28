@@ -1,0 +1,77 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "addr_sram[19]" LOC = W24;
+
+NET "addr_sram[18]" LOC = W22;
+NET "addr_sram[17]" LOC = V23;
+NET "addr_sram[16]" LOC = AC23;
+NET "addr_sram[15]" LOC = AA23;
+NET "addr_sram[14]" LOC = AD22;
+NET "addr_sram[13]" LOC = AB22;
+NET "addr_sram[12]" LOC = AD21;
+NET "addr_sram[11]" LOC = AC20;
+NET "addr_sram[10]" LOC = AD20;
+NET "addr_sram[9]" LOC = AC19;
+NET "addr_sram[8]" LOC = AC16;
+NET "addr_sram[7]" LOC = AC15;
+NET "addr_sram[6]" LOC = AD15;
+NET "addr_sram[5]" LOC = AC14;
+NET "addr_sram[4]" LOC = V26;
+NET "addr_sram[3]" LOC = V24;
+NET "addr_sram[2]" LOC = W26;
+NET "addr_sram[1]" LOC = W25;
+NET "addr_sram[0]" LOC = Y26;
+
+
+NET "data_bus[31]" LOC = AE15;
+NET "data_bus[30]" LOC = AF15;
+NET "data_bus[29]" LOC = AF16;
+NET "data_bus[28]" LOC = AE17;
+NET "data_bus[27]" LOC = AF17;
+NET "data_bus[26]" LOC = AF18;
+NET "data_bus[25]" LOC = AE19;
+NET "data_bus[24]" LOC = AF19;
+NET "data_bus[23]" LOC = AC25;
+NET "data_bus[22]" LOC = AD26;
+NET "data_bus[21]" LOC = AE26;
+NET "data_bus[20]" LOC = AE25;
+NET "data_bus[19]" LOC = AF25;
+NET "data_bus[18]" LOC = AE24;
+NET "data_bus[17]" LOC = AF24;
+NET "data_bus[16]" LOC = AE23;
+NET "data_bus[15]" LOC = AF20;
+NET "data_bus[14]" LOC = AE21;
+NET "data_bus[13]" LOC = AF21;
+NET "data_bus[12]" LOC = AB17;
+NET "data_bus[11]" LOC = AC17;
+NET "data_bus[10]" LOC = AD18;
+NET "data_bus[9]" LOC = AB18;
+NET "data_bus[8]" LOC = AD19;
+NET "data_bus[7]" LOC = AB24;
+NET "data_bus[6]" LOC = Y22;
+NET "data_bus[5]" LOC = AA24;
+NET "data_bus[4]" LOC = Y24;
+NET "data_bus[3]" LOC = AB26;
+NET "data_bus[2]" LOC = AC26;
+NET "data_bus[1]" LOC = AD24;
+NET "data_bus[0]" LOC = AC24;
+
+NET "led[0]" LOC = F26;
+NET "led[1]" LOC = G26;
+NET "led[2]" LOC = G25;
+NET "led[3]" LOC = H26;
+NET "led[4]" LOC = J26;
+NET "led[5]" LOC = J25;
+NET "led[6]" LOC = G23;
+NET "led[7]" LOC = J24;
+
+NET "ce" LOC = AA26;
+NET "oe" LOC = AD17;
+NET "we" LOC = AA25;
+NET "clk" LOC = U26;
+
+NET "RX" LOC=P24;
+NET "TX" LOC=R26;
+
+NET "reset" LOC=T1;
